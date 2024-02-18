@@ -1,0 +1,324 @@
+:root {
+    --background-color: #f8f9fa;
+    --font-family: Arial, sans-serif;
+    }
+ nav {
+        display: inline-block;
+        float: center;
+        
+    }
+      
+      /* Style the navigation list */
+ nav ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+      
+      /* Style the navigation list items */
+ nav li {
+        display: inline-block;
+        margin:  10px;
+    }
+      
+      /* Style the navigation links */
+ nav a {
+        display: block;
+        padding: 15px;
+        color: white;
+        text-decoration: none;
+    }
+ body{
+    width: 100%;
+    height: 0;
+    margin: 0;
+    padding: 0 ;
+    overflow-x: hidden;
+    background-color: #eaeaea;
+ }
+ main{
+    overflow-x: hidden;
+ }
+ a{
+    text-decoration:none;
+    color: azure;
+ }
+ *{
+    margin: 0px;
+    padding:0px;
+     }
+ .backgroud-image{
+    background-color: #f6f6f6;
+    background-image:url(Divyaansh.jpg);
+    margin-bottom: 0%;
+    padding: 0%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width:100%;
+    height:99vh;
+    background-position: center;
+ }
+ .backgroud-image-2{
+    background-color: #000;
+    background-image:url(divyaanshroadmap.png);
+    margin-top: 0%;
+    padding: 0%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width:100%;
+    height:115vh;
+    position: relative;
+    background-position: center;
+    margin: 0%;
+    padding: 0%;
+    top: -50px;
+
+  }
+
+ footer{
+  footer{
+     -webkit-text-size-adjust: 100%;
+     pointer-events: auto;
+     --rem: 16;
+     text-align: center;
+     font-family: futura-pt;
+     font-weight: 300;
+     font-style: normal;
+     font-size: 16px;
+     letter-spacing: .06em;
+     line-height: 1.6em;
+     text-transform: none;
+     color: #000;
+     background-color: #f6f6f6;
+     -webkit-font-smoothing: subpixel-antialiased;
+     display: block;
+     position: relative;
+     top: -1300px;
+     width: 100%;
+     text-align: center;
+    }
+ }
+ #Header-branding{
+    max-width: 108px;
+ }
+ #box1{
+    background-image: url("digital.png"); 
+    background-size: cover;
+    position: relative;
+    top: 15px;
+    left: 20px;
+    height:100px;
+    max-width: 180px;
+    
+  }
+ #box2{
+    position: relative;
+    top: -35px;
+    right:30px;
+    height:100px
+    max-width: 180px;
+    font-weight: 1000;
+    letter-spacing: .1em;
+    text-align: right;
+    color: wheat;
+    }
+
+ #box3{
+    display: inline-block
+    fill: transparent;
+    position: relative; 
+    top: -1245px;
+    right: center;
+    }
+
+ #box4{
+    position: relative;
+    top: -1280px;
+    right: -757px
+    }
+ #box5{
+    position: relative;
+    top: -1290px;
+    right: center;
+    }
+ #box7{
+    position: relative;
+    top: 340px;
+    right: 320px;
+    text-wrap: wrap;
+    text-align: center;
+    height:200px
+    max-width: 180px;
+    letter-spacing: .1em;
+    text-align: right;
+    color: azure;
+    text-rendering: optimizeLegibility;
+    font-family: Arial,Helvetica,sans-serif;
+    font-weight: 700;
+    font-size: 32px;
+    letter-spacing: 0em;
+    line-height: 1em;
+    font-family: futura-pt;
+    font-weight: 100;
+    font-style: normal;
+    letter-spacing: .07em;
+    line-height: .9em;
+    }
+
+ .backgroud-image-3{
+    background-image: url(before.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position:relative;
+    top:-56px;
+    right: 100px;
+    width: 54%;
+ }
+
+ #box8{
+    height: 150vh;
+    width: 40px;
+    
+ }
+ .backgroud-image-4{
+    background-image: url(after.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position:relative;
+    top:-1200px;
+    left: 730px;
+    width: 54%;
+   
+ }
+ #box9{
+    height: 150vh;
+    width: 40px;
+ }
+ #box10{
+    position: relative;
+    top: -2090px;
+    right: 550px;
+    text-align: center;
+    color: azure
+    font-family: Arial,Helvetica,sans-serif;
+    font-weight: 700;
+    font-size: 32px;
+    letter-spacing: 0em;
+    line-height: 1em;
+    font-family: futura-pt;
+    font-weight: 100;
+    font-style: normal;
+    letter-spacing: .07em;
+    line-height: .9em;
+    color:#000
+ }
+
+ .backgroud-image-5{
+    background-image: url(explore.jpg);
+    background-repeat: no-repeat;
+    position:relative;
+    background-size: cover;
+    top:-1290px;
+    width: 100%;
+    height: 205vh;
+    margin: 0;
+    padding: 0;
+ }
+ #box11{
+    position: relative;
+    top: 200px;
+    right: -100px;
+    text-align: center;
+    color: azure
+    font-family: Arial,Helvetica,sans-serif;
+    font-weight: 700;
+    font-size: 32px;
+    letter-spacing: 0em;
+    line-height: 1em;
+    font-family: futura-pt;
+    font-weight: bold;
+    font-style: normal;
+    letter-spacing: .07em;
+    line-height: .9em;
+    color: black
+     }
+    
+
+    .backgroud-image-2{
+        padding: 10px 15px;
+        margin: 10px 0;
+    }
+    .box7{
+        font-size: 16px
+    }
+    .backgroud-image-3{
+        padding: 10px 15px;
+        margin: 10px 0;
+    }
+    .box8{
+        font-size: 16px;
+    }
+    .backgroud-image-4{
+        padding: 10px 15px;
+        margin: 10px 0;
+    }
+    .box9{
+        font-size: 16px;
+    }
+    .box10{
+        font-size: 16px;
+    }
+
+  
+  /* Use ems or rems for font size */
+  h1 {
+    font-size: 2rem;
+    position: relative;
+    right: auto;
+  }
+  h2{
+    font-size: 2rem;
+    position: relative;
+    right: auto;
+  }
+  
+  /* Use vw or vh for viewport-relative units */
+  .box10 {
+    width: 50vw;
+    height: 20vh;
+  }
+  /* Use display: flex for the main element */
+ main {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  /* Use flex-direction: column for small screens */
+  @media (max-width: 600px) {
+    main {
+      flex-direction: column;
+    }
+  }
+  
+  /* Use order to rearrange the elements */
+  @media (min-width: 600px) {
+    .backgroud-image-2 {
+      order: 1;
+    }
+    .backgroud-image-3 {
+      order: 2;
+      background-size: contain;
+      overflow-x: auto;
+    }
+    .backgroud-image-4 {
+      order: 3;
+      background-size: contain;
+      overflow-x: auto;
+      position: relative;
+     
+    
+
+    }
+
+}
+  
