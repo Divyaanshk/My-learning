@@ -25,7 +25,7 @@ nav a{
     padding: 15px;
     color: rgb(241, 147, 7);
     text-decoration: none;
-    text-align: ;
+    display: inline-block;
 }
 #box2{
     height: 500px;
